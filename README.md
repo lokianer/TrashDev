@@ -17,7 +17,7 @@ Ein kollaborativer Raum für Entwickler, um Wissen, Ressourcen und inspirierende
 
 - Füge deine Lieblingsbücher unter `/books` hinzu
 - Beschreibe kurz, warum das Buch wertvoll ist
-- Formatiere mit: `Buchtitel - Autor - Kurzbeschreibung`
+- Formatiere mit: `Buchtitel - Autor`
 
 ### Projekte
 
