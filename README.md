@@ -39,7 +39,7 @@ Ein kollaborativer Raum für Entwickler, um Wissen, Ressourcen und inspirierende
 
 ## 💡 Beispiele
 
-- Buch: "Clean Code" - Robert C. Martin - Grundlegende Prinzipien für lesbaren Code
+- Buch: "Clean Code" - Robert C. Martin
 - Projekt: Persönliche Portfolio-Website mit React
 - Tool: VSCode Extension für Produktivität
 
